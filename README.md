@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/56218293/109398628-54a58900-793e-11eb-86ac-365e509d71bd.png)
+
 <h1 align="center">Hi 👋, I'm Gian</h1>
 <h3 align="center">A passionate student of web development</h3>
 
